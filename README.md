@@ -1,5 +1,16 @@
 # Amazon_Vine_Analysis
 # Overview
+## About
+### Data source : https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Wireless_v1_00.tsv.gz
+### Languages Used:
+- PySpark
+- Jupyter notebook
+- pgAdmin4
+- Google collab
+- AWS
+
+
+
 ## Purpose
 ## Results
 
