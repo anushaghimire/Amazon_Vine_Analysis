@@ -13,7 +13,9 @@
 
 
 
-## Purpose
+## Purpose: 
+
+The purpose of the study is to analyze Amazon reviews written by members of the paid Amazon Vine program and to determine if there is any bias toward favorable reviews from Vine members in the dataset. To do the project I picked one dataset from  https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt and used PySpark to perform the ETL process. I extracted the dataset as dataframe and then transformed the dataset into 4 different dataframes: customers_table, products_table, review_id_table, and vine _table. Then I loaded the transformed data into pgAdmin. 
 ## Results
 
 - How many Vine reviews and non-Vine reviews were there?
