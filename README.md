@@ -6,7 +6,7 @@
 - How many Vine reviews and non-Vine reviews were there?
 <img width="556" alt="Screen Shot 2021-10-14 at 10 37 08 AM" src="https://user-images.githubusercontent.com/85364095/137398859-fad0c7d0-8bbe-4636-89d7-aa354502f7a0.png">
 
-<img width="537" alt="Screen Shot 2021-10-14 at 10 37 23 AM" src="https://user-images.githubusercontent.com/85364095/137398842-ad64c67e-41bc-4fae-a794-46bea05d6553.png">
+<img width="556" alt="Screen Shot 2021-10-14 at 10 37 23 AM" src="https://user-images.githubusercontent.com/85364095/137398842-ad64c67e-41bc-4fae-a794-46bea05d6553.png">
 
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
