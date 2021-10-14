@@ -5,10 +5,11 @@
 ### Languages Used:
 - PySpark
 - Jupyter notebook
-- pgAdmin4
+- pgAdmin 4
 - AWS
 - PostgreSQL
-- Google collab 
+-  Google Colab Notebook
+-  pandas
 
 
 
