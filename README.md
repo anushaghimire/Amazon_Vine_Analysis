@@ -18,21 +18,22 @@
 
 - How many Vine reviews and non-Vine reviews were there?
 
-**Vine reviews:** There were 613 vine reviews.
+**Vine reviews:**  There were 613 vine reviews.
                   
                   
 <img width="556" alt="Screen Shot 2021-10-14 at 10 37 08 AM" src="https://user-images.githubusercontent.com/85364095/137398859-fad0c7d0-8bbe-4636-89d7-aa354502f7a0.png">
 
-**Non-Vine reviews:** There were 64968 non-vine reviews.
+**Non-Vine reviews:**  There were 64968 non-vine reviews.
 
 <img width="556" alt="Screen Shot 2021-10-14 at 10 37 23 AM" src="https://user-images.githubusercontent.com/85364095/137398842-ad64c67e-41bc-4fae-a794-46bea05d6553.png">
 
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-
+**There were 200 5-star vine reviews.**
 <img width="556" alt="Screen Shot 2021-10-14 at 10 37 42 AM" src="https://user-images.githubusercontent.com/85364095/137398782-6e5b791f-0897-4424-b6d3-52436ea50412.png">
 
+**There were 28842 5-star non-vine reviews.**
 <img width="556" alt="Screen Shot 2021-10-14 at 10 37 55 AM" src="https://user-images.githubusercontent.com/85364095/137399299-bd860c0a-3bb5-47e3-9366-d729d1ebcf20.png">
 
 
