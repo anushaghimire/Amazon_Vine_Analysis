@@ -31,9 +31,11 @@
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 **There were 200 5-star vine reviews.**
+
 <img width="556" alt="Screen Shot 2021-10-14 at 10 37 42 AM" src="https://user-images.githubusercontent.com/85364095/137398782-6e5b791f-0897-4424-b6d3-52436ea50412.png">
 
-**There were 28842 5-star non-vine reviews.**
+**There were 28,842 5-star non-vine reviews.**
+
 <img width="556" alt="Screen Shot 2021-10-14 at 10 37 55 AM" src="https://user-images.githubusercontent.com/85364095/137399299-bd860c0a-3bb5-47e3-9366-d729d1ebcf20.png">
 
 
