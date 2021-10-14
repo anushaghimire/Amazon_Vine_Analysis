@@ -17,7 +17,13 @@
 ## Results
 
 - How many Vine reviews and non-Vine reviews were there?
+
+**Vine reviews:** There were 613 vine reviews.
+                  
+                  
 <img width="556" alt="Screen Shot 2021-10-14 at 10 37 08 AM" src="https://user-images.githubusercontent.com/85364095/137398859-fad0c7d0-8bbe-4636-89d7-aa354502f7a0.png">
+
+**Non-Vine reviews:** There were 64968 non-vine reviews.
 
 <img width="556" alt="Screen Shot 2021-10-14 at 10 37 23 AM" src="https://user-images.githubusercontent.com/85364095/137398842-ad64c67e-41bc-4fae-a794-46bea05d6553.png">
 
