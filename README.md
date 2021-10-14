@@ -6,8 +6,9 @@
 - PySpark
 - Jupyter notebook
 - pgAdmin4
-- Google collab
 - AWS
+- PostgreSQL
+- Google collab 
 
 
 
