@@ -54,3 +54,7 @@
 
 
 ## Summary
+Based on the results shown above there were no biased 5-star ratings by the paid reviewers for the product. Only 32.6% of the paid reviews were 5 stars whereas 44.3% 5-star rating was from unpaid reviews.
+
+
+
